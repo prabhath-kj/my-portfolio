@@ -7,7 +7,7 @@ export default function Home() {
    <main className='flex min-h-screen 
    flex-col '>
     <Navbar/>
-    <div className='container px-12 pt-20'>
+    <div className='container px-12 mt-20'>
     <HeroAvatar/>
     </div>
   </main>
