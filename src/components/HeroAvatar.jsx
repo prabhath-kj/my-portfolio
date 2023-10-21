@@ -9,7 +9,7 @@ const heroAvatar = () => {
             Hello, I'm {""}
           </h1>
           <TypeAnimation
-           className="font-bold"
+            className="font-bold"
             sequence={["Prabhath", 1000, "Mern Stack Developer", 1000]}
             wrapper="span"
             speed={10}
@@ -18,10 +18,10 @@ const heroAvatar = () => {
           />
 
           <p className="text-lg lg:text-xl text-white mb-6 ">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
-            vitae corrupti cupiditate aut alias blanditiis est quos modi
-            nostrum? Fugit dolore, tenetur placeat obcaecati ut aliquid ullam
-            aperiam optio consequuntur!
+            Passionate Full Stack MERN developer with a strong focus on Node.js
+            and React.js development. Gained extensive knowledge in building
+            robust and scalable applications. Committed to delivering
+            high-quality code and continuously learning new technologie.
           </p>
           <div>
             <button className="px-5 py-5 rounded-full border bg-white hover:bg-slate-200 text-black m-4">

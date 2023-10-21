@@ -28,7 +28,7 @@ const Navbar = () => {
           href={"/"}
           className="font-semibold sm:text-4xl text-lg text-white"
         >
-          LOGO
+          {""}
         </Link>
         <div className="mobile-menu block md:hidden">
           {isOpen ? (
